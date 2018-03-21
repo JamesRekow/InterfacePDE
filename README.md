@@ -1,5 +1,5 @@
 
-**Author:** James Rekow
+**Author:** James Rekow  
 **Overview:** This code contains an example of a boundary value problem (differential equation with boundary conditions) and an interface in which the maximum principle is violated but a comparison principle still holds. This is surprising because the traditional proof of the comparison principle for standard boundary value problems uses the maximum principle.
 
 Pure diffusion equation (in u) on (0,1) with Dirichlet BC and an interface
