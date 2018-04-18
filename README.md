@@ -16,11 +16,11 @@ eta_{-} = kappa_{-} = 1, eta_{+} = kappa_{+} = 0.25.
 
 
 Note that the interface problem in u must obey a comparison principle,
-since the problem in v does, and multiplication by piecewise constants
-does not change the ordering of solutions. However, the numerical example
-clearly shows that u does not obey a maximum principle. The yellow star in the
-time evolving solution to the u problem represents the maximum value of
-the solution. It does not attain this maximum on the parabolic boundary.
+since the problem in v does, and multiplication by piecewise positive
+constants does not change the ordering of solutions. However, the numerical
+example clearly shows that u does not obey a maximum principle. The yellow
+star in the time evolving solution to the u problem represents the maximum
+value of the solution. It does not attain this maximum on the parabolic boundary.
 This is also evidenced by the surface in figure2. The ridge is the value
 of u(0.5+,t).
 
